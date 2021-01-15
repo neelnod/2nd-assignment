@@ -37,7 +37,15 @@ h3 {color: orange;
         margin-left: 15px;
     }
 
-.end-section{ border: none;}
+    h2{ 
+        margin-left: 50px;
+        font-weight: bold;
+    }
+
+.subscribe { 
+    text-align: justify;
+}
+
 
     
     
