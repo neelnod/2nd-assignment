@@ -1,0 +1,43 @@
+.navbar-brand img{
+    width: 300px;   
+}
+
+.top-section{
+    background-color:linen;
+} 
+
+span{
+    color: orange;
+}
+
+body {
+    margin: 0px 50px;
+    font-family: 'Fraunces', serif;}
+
+.card-image {
+    background-color: lightgray;
+    border-radius: 30px;
+    margin: 15px 15px;
+
+    
+}
+
+.btn { 
+       margin-right:20px;
+       margin-bottom: 20px;   
+    }
+    
+.btn img{
+        width: 30px;
+        border-radius: 30px;
+    }
+
+h3 {color: orange;
+        text-align: justify;
+        margin-left: 15px;
+    }
+
+.end-section{ border: none;}
+
+    
+    
